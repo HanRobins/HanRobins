@@ -1,4 +1,5 @@
 <div align="center">
+  <div class="tenor-gif-embed" data-postid="26165222" data-share-method="host" data-aspect-ratio="1.35021" data-width="100%"><a href="https://tenor.com/view/programming-gif-  26165222">Programming GIF</a>from <a href="https://tenor.com/search/programming-gifs">Programming GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js">  </script>
   <img src="https://tenor.com/view/programming-gif-26165222" width="100%" height="auto" />
 </div>
 
