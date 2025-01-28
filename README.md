@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tenor.com/view/small-cat-angry-cat-cute-gif-24160051" width="100%" height="auto" />
+  <img src="https://tenor.com/view/programming-gif-26165222" width="100%" height="auto" />
 </div>
 
 <h1 align="center">Hi there, I'm Hannah Robinson 👋</h1>
